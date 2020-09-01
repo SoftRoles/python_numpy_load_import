@@ -1,3 +1,3 @@
-# Data Science Step-by-Step: Python Numpy Load Data File
+# Data Science Academy: Python Numpy Import Data From File
 
 
